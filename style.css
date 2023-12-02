@@ -94,7 +94,7 @@ th{
 
     /* BORDER SPACING */
     
-    td {
+    /* td {
         border: 1px solid #0088dd;
         padding: 15px;}
         table.one {
@@ -102,4 +102,60 @@ th{
     
     table{
         border-collapse: collapse;
+    } */
+
+
+
+    /* STYLING FORMS */
+
+    /* #ln{
+        margin-top: 20px;
     }
+
+    input{
+            color: red;
+            background-color: wheat;
+            border: 3px solid red;
+            border-radius: 2px round;
+            outline: none;
+    }
+    input:hover{
+        background-color: aqua;
+    } */
+
+    /* #Email{
+        background-image:  url('./Assets/emai-icon.png');
+        background-repeat: no-repeat;
+        margin-bottom: 10px;
+        
+    }
+    #GitHub{
+        background-image: url('./Assets/github-icon.png');
+        background-repeat: no-repeat;
+    } */
+
+
+    /* STYLING FIELDSET AND LEGEND */
+
+/* 
+    fieldset {
+        width: 350px;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 20px;
+        text-align: right;}
+        legend {
+        background-color: #efefef;
+        border: 1px solid #dcdcdc;
+        border-radius: 10px;
+        padding: 10px 20px;
+        text-align: left;
+        text-transform: uppercase;} */
+
+
+        /* CURSOR STYLES */
+
+        #submit-btn:hover{
+            cursor: wait;
+
+        }
