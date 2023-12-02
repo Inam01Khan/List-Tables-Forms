@@ -1,0 +1,36 @@
+/* FOR UNORDERED LISTS */
+
+/* ul{
+    list-style-type: circle;
+} */
+
+/* FOR ORDERED LISTS */
+
+/* ol{
+    list-style-type: lower-alpha;
+} */
+
+
+/* IMAGES FOR BULLETS */
+
+/* ul{
+    list-style-image: url(./Assets/Apple-icon.png)
+} */
+
+
+/* LISTS STYLE POSITIONS */
+
+/* .illuminations{
+    list-style-position: outside;
+}
+
+.season{
+    list-style-position: inside;
+} */
+
+
+/* LISTS SHORT HAND */
+
+ul{
+    list-style: inside circle;
+}
